@@ -1,0 +1,8 @@
+{
+    "version": "0.1.0",
+    "name": "popup",
+    "main": "popup.js",
+    "dependencies": [
+        "jquery@>=1.7.0"
+    ]
+}
